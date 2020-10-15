@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-15T22:53:44 CEST" name="Suite" finished-at="2020-10-15T22:55:06 CEST" duration-ms="82573">
+    <groups>
+    </groups>
+    <test started-at="2020-10-15T22:53:44 CEST" name="Positive test for the purchase of one article" finished-at="2020-10-15T22:54:21 CEST" duration-ms="37877">
+      <class name="selenium.BuyOneArticleTest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:selenium.BuyOneArticleTest@2bbf180e]" started-at="2020-10-15T22:53:44 CEST" name="initialize" finished-at="2020-10-15T22:53:49 CEST" duration-ms="5646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="PageDresses()[pri:0, instance:selenium.BuyOneArticleTest@2bbf180e]" started-at="2020-10-15T22:53:49 CEST" name="PageDresses" finished-at="2020-10-15T22:54:16 CEST" duration-ms="27103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PageDresses -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:selenium.BuyOneArticleTest@2bbf180e]" started-at="2020-10-15T22:54:16 CEST" name="teardown" finished-at="2020-10-15T22:54:21 CEST" duration-ms="5091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- selenium.BuyOneArticleTest -->
+    </test> <!-- Positive test for the purchase of one article -->
+    <test started-at="2020-10-15T22:54:21 CEST" name="Positive test for purchase more articles" finished-at="2020-10-15T22:55:06 CEST" duration-ms="44641">
+      <class name="selenium.BuyMoreArticleTest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:selenium.BuyMoreArticleTest@4ddced80]" started-at="2020-10-15T22:54:21 CEST" name="initialize" finished-at="2020-10-15T22:54:27 CEST" duration-ms="5241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="PageDresses()[pri:0, instance:selenium.BuyMoreArticleTest@4ddced80]" started-at="2020-10-15T22:54:27 CEST" name="PageDresses" finished-at="2020-10-15T22:55:01 CEST" duration-ms="34285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PageDresses -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:selenium.BuyMoreArticleTest@4ddced80]" started-at="2020-10-15T22:55:01 CEST" name="teardown" finished-at="2020-10-15T22:55:06 CEST" duration-ms="5112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- selenium.BuyMoreArticleTest -->
+    </test> <!-- Positive test for purchase more articles -->
+  </suite> <!-- Suite -->
+</testng-results>

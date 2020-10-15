@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	<test name="Positive test for the purchase of one article">
+		<classes>
+			<class name="selenium.BuyOneArticleTest" />
+		</classes>
+	</test>
+	<test name="Positive test for purchase more articles">
+		<classes>
+			<class name="selenium.BuyMoreArticleTest" />
+		</classes>
+	</test>
+	<!-- Test -->
+</suite> <!-- Suite -->
