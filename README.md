@@ -1,4 +1,4 @@
-## SocialNetwork Automation test with Selenium Maven
+## Ecommerce Web Automation test with Selenium Maven
 
 This is Selenium Maven project which automate testing Ecommerce web site. You can find tests in src/test/java/selenium. I tested buying one item and buying multiple items. I also tested the price calculation, ie the correctness of the calculated price. All tests are  written with a successful result.
 
@@ -6,7 +6,7 @@ This is Selenium Maven project which automate testing Ecommerce web site. You ca
 ![Alt Text](https://github.com/FahirL/Ecommerce-SeleniumAutomation-TestNG/blob/master/ecommerce1.gif?raw=true)
 
 ## Gif 
-![Alt Text](https://github.com/FahirL/Ecommerce-SeleniumAutomation-TestNG/blob/master/ecommerce1.gif?raw=true)
+![Alt Text](https://github.com/FahirL/Ecommerce-SeleniumAutomation-TestNG/blob/master/ecommerce2.gif?raw=true)
 
 ## Video
 
