@@ -5,6 +5,9 @@ This is Selenium Maven project which automate testing Ecommerce web site. You ca
 ## Gif 
 ![Alt Text](https://github.com/FahirL/Ecommerce-SeleniumAutomation-TestNG/blob/master/ecommerce1.gif?raw=true)
 
+## Gif 
+![Alt Text](https://github.com/FahirL/Ecommerce-SeleniumAutomation-TestNG/blob/master/ecommerce1.gif?raw=true)
+
 ## Video
 
 [![Watch the video](https://i.ibb.co/vHq29P9/tomb.png)](https://www.loom.com/share/460b1cfc943244b4b25f8d95ffefcf04)
