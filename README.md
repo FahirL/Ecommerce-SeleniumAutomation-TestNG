@@ -12,6 +12,9 @@ This is Selenium Maven project which automate testing Ecommerce web site. You ca
 
 ## Usage
 -------
+Programming language
+-Java 8
+
 Frameworks
 - TestNG, JUnit
 
